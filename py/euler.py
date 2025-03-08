@@ -37,9 +37,10 @@ def euler_plot(n):
 
 
 if __name__ == '__main__':
-    assert(euler(11) == 10)
+    pass
+    # assert(euler(11) == 10)
 
-    euler_plot(300)
+    # euler_plot(300)
 
 
 # если p-простое и a не делится на p то a^(p-1) - 1 делится на p
