@@ -40,7 +40,7 @@ if __name__ == '__main__':
     pass
     # assert(euler(11) == 10)
 
-    # euler_plot(300)
+    euler_plot(300)
 
 
 # если p-простое и a не делится на p то a^(p-1) - 1 делится на p
